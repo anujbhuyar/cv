@@ -1,0 +1,53 @@
+.top{
+    background-color: #DEFCF9;
+    position: relative;
+    padding-top: 100px;
+}
+.profilepic{
+    border-radius: 100%;
+}
+/*.beh{
+    width: 10%;
+    margin: 0 auto 0 auto; this is other way to bring a text to center with help of margin
+}
+*/
+.bottomcloud{
+    position: absolute;
+    right: 900px;
+}
+.topcloud{
+    position: absolute;
+    left: 900px;
+    top: 50px;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    left: 900px;
+    bottom: 50px;
+    background-color: #DEFCF9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 90px;
+}
+/*
+font-family: 'Amatic SC', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Shadows Into Light', cursive;
+*/
+.one{
+    border-radius: 100%;
+
+}
+.two{
+    border-radius: 100%;
+
+}
+h2{
+    font-family: 'Amatic SC', cursive;
+
+}
